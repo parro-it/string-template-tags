@@ -1,6 +1,6 @@
 {
   "name": "string-template-tags",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "template string literals with steroids",
   "repository": "parro-it/string-template-tags",
   "author": "Andrea Parodi <andrea@parro.it>",
