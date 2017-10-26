@@ -1,4 +1,4 @@
-const $package_var = require('$package_name');
+const stringTemplateTags = require('string-template-tags');
 
-console.log({$package_var});
+console.log({stringTemplateTags});
 
